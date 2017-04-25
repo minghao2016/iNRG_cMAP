@@ -9,7 +9,7 @@ title: Installation
 **Supplementary Dataset DS1: cMap Drugs prototype ranked lists**  
 
 Compressed tab delimited txt file containing the 'prototype ranked lists' of genes for all the drug contained in the connectivity map dataset, computed as described in [Iorio et al, PNAS 2010](http://www.ncbi.nlm.nih.gov/pubmed/20679242).  
-[SuppDataset_SD1_DRUG_PRLS_txt.zip](home_files/SuppDataset_SD1_DRUG_PRLS_txt.zip "home_files/SuppDataset_SD1_DRUG_PRLS_txt.zip")  
+[SuppDataset_SD1_DRUG_PRLS_txt.zip](http://saezlab.org/files/inrg_cmap/SuppDataset_SD1_DRUG_PRLS_txt.zip)  
 
 ## How to reproduce results and figures presented in the manuscript?  
 
@@ -39,7 +39,7 @@ install.packages(“[library.name]”)
 replacing \[`library.name`\] with each of the library names listed above, in turn.  
 
 ### Working directory creation:  
-Download and unzip the following compressed folder: [IorioEtAl_R_code_and_objects.zip](home_files/IorioEtAl_R_code_and_objects.zip "home_files/IorioEtAl_R_code_and_objects.zip")
+Download and unzip the following compressed folder: [IorioEtAl_R_code_and_objects.zip](http://saezlab.org/files/inrg_cmap/IorioEtAl_R_code_and_objects.zip) or from [GitHub](https://github.com/francescojm/iNRG_cMap/tree/master/IorioEtAl_R_code_and_objects)
 
 Once uncompressed, the content of this folder and its sub-folders should not be changed. Files in the OUTPUT subfolder (initially empty) can be moved and/or deleted.
 
