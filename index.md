@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-# iNRG_cMap
-iterative NetwoRk Guided connectivity Mapping
+# iNRG_cMap: iterative NetwoRk Guided connectivity Mapping
 
 ![alt tag](http://www.ebi.ac.uk/~iorio/PLoS_ONE_Submission/home_files/Screen%20Shot%202014-05-01%20at%201.58.48%20AM.jpg)
 
