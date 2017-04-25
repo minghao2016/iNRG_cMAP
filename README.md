@@ -19,3 +19,4 @@ Give a look to the manual to start
 (https://github.com/francescojm/iNRG_cMap/blob/master/Manual.pdf)
 
 
+or visit the project's [website](https://saezlab.github.io/iNRG_cMAP/)
