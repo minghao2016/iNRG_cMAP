@@ -23,6 +23,4 @@ This repository contains all the code and data objects needed to reproduce the r
 Give a look to the [manual](https://github.com/francescojm/iNRG_cMap/blob/master/Manual.pdf) to start
 
 
-or visit the project [web-site](http://www.ebi.ac.uk/~iorio/PLoS_ONE_Submission)
-
 
