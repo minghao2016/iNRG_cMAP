@@ -17,7 +17,7 @@ tagline:          Iterative Network-Guided Connectivity mapping
 description:      "Iterative Network-Guided Connectivity mapping"
 #url:              https://github.com/saezlab/projectDocumentationTemplate
 baseurl:          /iNRG_cMAP/
-toollogo:         /iNRG_cMAP/tool_logo.png
+toollogo:         /iNRG_cMAP/inrg_cmap_logo.jpg
 
 author:
   name:           'Francesco Iorio'
