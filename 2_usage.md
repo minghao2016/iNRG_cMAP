@@ -3,4 +3,6 @@ layout: page
 title: Usage
 ---
 
-Please describe here how to use the tool.
+Give a look to the [manual](https://github.com/francescojm/iNRG_cMap/blob/master/Manual.pdf) to start
+
+
