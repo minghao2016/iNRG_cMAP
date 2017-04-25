@@ -6,6 +6,5 @@ title: Contact
 Author: Francesco Iorio (iorio at ebi.ac.uk)
 
 ### Citaton:
+Iorio, F., Shrestha, R.L., Levin, N., Boilot, V., Garnett, M.J., Saez-Rodriguez, J. and Draviam, V.M., 2015. **A semi-supervised approach for refining transcriptional signatures of drug response and repositioning predictions.** _PloS one_, 10(10), p.e0139446. [paper](https://doi.org/10.1371/journal.pone.0139446)
 
-Iorio F, Bosotti R, Scacheri E, Belcastro V, Mithbaokar P, Ferriero R, et al. Discovery of drug mode of action and drug repositioning from transcriptional responses. _Proceedings of the National Academy of Sciences._ 2010;107(33):14621
-[paper](https://www.ncbi.nlm.nih.gov/pubmed/20679242)
