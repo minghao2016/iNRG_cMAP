@@ -7,6 +7,7 @@ title: Home
 
 ![alt tag](http://www.ebi.ac.uk/~iorio/PLoS_ONE_Submission/home_files/Screen%20Shot%202014-05-01%20at%201.58.48%20AM.jpg)
 
+## Overview
 Drug repositioning, whereby a drug prescribed to treat a given disease is approved to treat a new one, has
 gained increased interest in recent years. Various methods attempt to identify repositioning opportunities
 by analysing signatures of changes in gene expression induced by drugs, generally as ‘black-box’ tools to
@@ -21,6 +22,20 @@ This repository contains all the code and data objects needed to reproduce the r
 
 Give a look to the [manual](https://github.com/francescojm/iNRG_cMap/blob/master/Manual.pdf) to start
 
-### Citation:
-Iorio, F., Shrestha, R.L., Levin, N., Boilot, V., Garnett, M.J., Saez-Rodriguez, J. and Draviam, V.M., 2015. **A semi-supervised approach for refining transcriptional signatures of drug response and repositioning predictions.** _PloS one_, 10(10), p.e0139446. [paper](https://doi.org/10.1371/journal.pone.0139446)
+## How to cite us
+Please use this reference to cite iNRG-cMAP:
 
+> Iorio, F., Shrestha, R.L., Levin, N., Boilot, V., Garnett, M.J., Saez-Rodriguez, J. and Draviam, V.M., (2015). [A semi-supervised approach for refining transcriptional signatures of drug response and repositioning predictions.](https://doi.org/10.1371/journal.pone.0139446)  _PloS one_, **10**(10), p.e0139446.
+
+```
+@article{iorio2015semi,
+  title={A semi-supervised approach for refining transcriptional signatures of drug response and repositioning predictions},
+  author={Iorio, Francesco and Shrestha, Roshan L and Levin, Nicolas and Boilot, Viviane and Garnett, Mathew J and Saez-Rodriguez, Julio and Draviam, Viji M},
+  journal={PloS one},
+  volume={10},
+  number={10},
+  pages={e0139446},
+  year={2015},
+  publisher={Public Library of Science}
+}
+```
