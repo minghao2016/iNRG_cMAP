@@ -22,7 +22,7 @@ This repository contains all the code and data objects needed to reproduce the r
 
 Give a look to the [manual](https://github.com/francescojm/iNRG_cMap/blob/master/Manual.pdf) to start
 
-## How to cite us
+## References
 Please use this reference to cite iNRG-cMAP:
 
 > Iorio, F., Shrestha, R.L., Levin, N., Boilot, V., Garnett, M.J., Saez-Rodriguez, J. and Draviam, V.M., (2015). [A semi-supervised approach for refining transcriptional signatures of drug response and repositioning predictions.](https://doi.org/10.1371/journal.pone.0139446)  _PloS one_, **10**(10), p.e0139446.
